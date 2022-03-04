@@ -33,4 +33,5 @@ npm run serve
 
 ### Créditos
 Thais Jacóe Soares
+
 [gitlab](https://gitlab.com/thaisjsoares/) | [github](https://github.com/thaisjsoares) | [linkedin](https://www.linkedin.com/in/thais-jacoe-soares/)
