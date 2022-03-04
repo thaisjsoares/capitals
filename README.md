@@ -1,7 +1,7 @@
 # Qual é a capital?
 
 <div align="center">
-![project](src/assets/projectSmaller.gif)
+  <img src="/src/assets/projectSmaller.gif" alt="Gif of the project" />
 </div>
 
 ## Sobre o projeto
