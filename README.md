@@ -1,24 +1,36 @@
-# capitals
+# Qual é a capital?
 
-## Project setup
+<div align="center">
+![project](src/assets/projectSmaller.gif)
+</div>
+
+## Sobre o projeto
+
+Comecei esse projeto para estudar Vue. O jogo usa a API [Rest Countries](https://restcountries.com/) para mostrar os países e suas capitais. 
+
+## Tecnologias
+
+- Vue 3
+
+## Rodando o projeto
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Próximos passos
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Testes
+- Inserir botão para reiniciar jogo
+- Melhor navegação por teclado
+- Permitir que o usuário selecione o continente
+- Estilizar botões
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Imagem
+[Freepik - Flaticon](https://www.flaticon.com/free-icons/globe)
+
+### Créditos
+Thais Jacóe Soares
+[gitlab](https://gitlab.com/thaisjsoares/) | [github](https://github.com/thaisjsoares) | [linkedin](https://www.linkedin.com/in/thais-jacoe-soares/)
