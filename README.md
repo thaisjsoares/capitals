@@ -22,10 +22,11 @@ npm run serve
 
 ## Próximos passos
 
-- Testes
+- Incluir testes
 - Inserir botão para reiniciar jogo
-- Melhor navegação por teclado
+- Melhorar a navegação por teclado
 - Permitir que o usuário selecione o continente
+- Colocar um *score board* (estilo fliperama)
 - Estilizar botões
 
 ## Imagem
