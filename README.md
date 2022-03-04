@@ -20,7 +20,7 @@ npm install
 npm run serve
 ```
 
-### Próximos passos
+## Próximos passos
 
 - Testes
 - Inserir botão para reiniciar jogo
@@ -28,10 +28,10 @@ npm run serve
 - Permitir que o usuário selecione o continente
 - Estilizar botões
 
-### Imagem
+## Imagem
 [Freepik - Flaticon](https://www.flaticon.com/free-icons/globe)
 
-### Créditos
+## Créditos
 Thais Jacóe Soares
 
 [gitlab](https://gitlab.com/thaisjsoares/) | [github](https://github.com/thaisjsoares) | [linkedin](https://www.linkedin.com/in/thais-jacoe-soares/)
